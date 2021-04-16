@@ -60,6 +60,5 @@ var c = 3;
 
 **以下の記事を参照してみてください。**
 [JavaScriptでvarが非推奨な理由を整理してみた](https://qiita.com/taiju_suzuki/items/49ed558bd837452353b8)
-
 [Hoisting (巻き上げ、ホイスティング)](https://developer.mozilla.org/ja/docs/Glossary/Hoisting)
 
